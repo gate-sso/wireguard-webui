@@ -1,5 +1,5 @@
 # wireguard-webui
-This repository provides Wireguard WebUI for WireGuard VPN software with single sign on capabilities. Please see Gate-WireGuard for more details - please click (here)[https://github.com/gate-sso/gate-wireguard]
+This repository provides Wireguard WebUI for WireGuard VPN software with single sign on capabilities. Please see Gate-WireGuard for more details - please click [here](https://github.com/gate-sso/gate-wireguard)
 
 # Gate-WireGuard
 
